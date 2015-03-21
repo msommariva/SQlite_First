@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">SQlite_First</string>
+    <string name="app_name">SQL List</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="add_element">Add New Element</string>
+    <string name="element_name">Element Name</string>
 </resources>
