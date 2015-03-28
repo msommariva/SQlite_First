@@ -234,7 +234,7 @@ public class TestDatabaseActivity extends ListActivity implements AddElementDial
                     // Add sport if it is checked i.e.) == TRUE!
                     if (checked.valueAt(i))
                     {
-                        selectedItems.add((Comment) getListAdapter().getItem(i));
+                        selectedItems.add((Comment) getListAdapter().getItem(position));
                     }
                 }
 
